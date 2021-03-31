@@ -1,0 +1,107 @@
+{
+  "telesales": [
+    {
+      "id": 1,
+      "code": "CB666I",
+      "phone": "0989989989",
+      "name": "Ðông Ðào",
+      "status": [
+        "Đang hoạt động"
+      ]
+    },
+    {
+      "id": 3,
+      "code": "CB666I",
+      "phone": "0989989989",
+      "name": "Ðông Ðào",
+      "status": [
+        "Đang hoạt động"
+      ]
+    },
+    {
+      "id": 4,
+      "code": "CB666I",
+      "phone": "0989989989",
+      "name": "Ðông Ðào",
+      "status": [
+        "Đang hoạt động"
+      ]
+    },
+    {
+      "id": 5,
+      "code": "CB666I",
+      "phone": "0989989989",
+      "name": "Ðông Ðào",
+      "status": [
+        "Đang hoạt động"
+      ]
+    },
+    {
+      "id": 7,
+      "code": "CB666I",
+      "phone": "0989989989",
+      "name": "Ðông Ðào",
+      "status": [
+        "Đang hoạt động"
+      ]
+    },
+    {
+      "id": 8,
+      "code": "CB666I",
+      "phone": "0989989989",
+      "name": "Ðông Ðào",
+      "status": [
+        "Khóa tạm thời"
+      ]
+    },
+    {
+      "id": 9,
+      "code": "CB666I",
+      "phone": "0989989989",
+      "name": "Ðông Ðào",
+      "status": [
+        "Khóa vĩnh viễn"
+      ]
+    },
+    {
+      "name": "ez frontend",
+      "phone": "056789101112",
+      "password": "a",
+      "createdAt": 1617175557162,
+      "updatedAt": 1617175557162,
+      "id": 18
+    },
+    {
+      "name": "test apiii",
+      "phone": "0444444444",
+      "password": "12",
+      "createdAt": 1617177211100,
+      "updatedAt": 1617177211100,
+      "id": 19
+    },
+    {
+      "name": "aaa",
+      "phone": "0444444444",
+      "password": "a",
+      "createdAt": 1617178307796,
+      "updatedAt": 1617178307796,
+      "id": 20
+    },
+    {
+      "name": "g",
+      "phone": "453",
+      "password": "e",
+      "createdAt": 1617178369699,
+      "updatedAt": 1617178369699,
+      "id": 21
+    },
+    {
+      "name": "d",
+      "phone": "0333333333",
+      "password": "d",
+      "createdAt": 1617178488565,
+      "updatedAt": 1617178488565,
+      "id": 22
+    }
+  ]
+}

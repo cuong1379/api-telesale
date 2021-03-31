@@ -1,0 +1,15 @@
+GET http://localhost:3000/telesales
+
+###
+
+POST http://localhost:3000/telesales 
+Content-Type: application/json
+
+{
+    "code": "CB66BLLI",
+    "phone": "0988811111",
+    "name": "Đẹp Trai Vcl",
+    "status": [
+      "Đang hoạt động"
+    ]
+}
