@@ -1,107 +1,137 @@
 {
   "telesales": [
     {
-      "id": 1,
-      "code": "CB666I",
-      "phone": "0989989989",
-      "name": "Ðông Ðào",
-      "status": [
-        "Đang hoạt động"
-      ]
+      "code": "CB66BLLI",
+      "phone": "0988811111",
+      "name": "Đẹp Trai Vcl",
+      "status": "ok",
+      "action": "Đang hoạt động",
+      "currentKpi": "300,000,000 VND",
+      "progressKpi": "75%",
+      "id": 1
     },
     {
       "id": 3,
       "code": "CB666I",
       "phone": "0989989989",
       "name": "Ðông Ðào",
-      "status": [
-        "Đang hoạt động"
-      ]
+      "status": "ok",
+      "action": "Đang hoạt động",
+      "currentKpi": "300,000,000 VND",
+      "progressKpi": "75%"
     },
     {
       "id": 4,
       "code": "CB666I",
       "phone": "0989989989",
       "name": "Ðông Ðào",
-      "status": [
-        "Đang hoạt động"
-      ]
-    },
-    {
-      "id": 5,
-      "code": "CB666I",
-      "phone": "0989989989",
-      "name": "Ðông Ðào",
-      "status": [
-        "Đang hoạt động"
-      ]
-    },
-    {
-      "id": 7,
-      "code": "CB666I",
-      "phone": "0989989989",
-      "name": "Ðông Ðào",
-      "status": [
-        "Đang hoạt động"
-      ]
+      "status": "ok",
+      "action": "Đang hoạt động",
+      "currentKpi": "300,000,000 VND",
+      "progressKpi": "75%"
     },
     {
       "id": 8,
       "code": "CB666I",
       "phone": "0989989989",
       "name": "Ðông Ðào",
-      "status": [
-        "Khóa tạm thời"
-      ]
+      "action": "Đang hoạt động",
+      "currentKpi": "300,000,000 VND",
+      "progressKpi": "75%",
+      "status": "ok"
     },
     {
       "id": 9,
       "code": "CB666I",
       "phone": "0989989989",
+      "action": "Đang hoạt động",
       "name": "Ðông Ðào",
-      "status": [
-        "Khóa vĩnh viễn"
-      ]
+      "currentKpi": "300,000,000 VND",
+      "progressKpi": "75%",
+      "status": "ok"
     },
     {
       "name": "ez frontend",
       "phone": "056789101112",
       "password": "a",
+      "action": "Đang hoạt động",
+      "currentKpi": "300,000,000 VND",
+      "progressKpi": "75%",
       "createdAt": 1617175557162,
       "updatedAt": 1617175557162,
-      "id": 18
+      "id": 18,
+      "status": "ok"
     },
     {
       "name": "test apiii",
       "phone": "0444444444",
+      "action": "Đang hoạt động",
       "password": "12",
+      "currentKpi": "300,000,000 VND",
+      "progressKpi": "75%",
       "createdAt": 1617177211100,
       "updatedAt": 1617177211100,
-      "id": 19
+      "id": 19,
+      "status": "ok"
     },
     {
-      "name": "aaa",
-      "phone": "0444444444",
-      "password": "a",
-      "createdAt": 1617178307796,
-      "updatedAt": 1617178307796,
+      "name": "Nguyen Van Cuong",
+      "phone": "0999999999",
+      "password": "cuongdeptrai",
+      "action": "Đang hoạt động",
+      "status": "ok",
+      "currentKpi": "300,000,000 VND",
+      "progressKpi": "75%",
+      "createdAt": 1617179529746,
+      "updatedAt": 1617179529746,
       "id": 20
     },
     {
-      "name": "g",
-      "phone": "453",
-      "password": "e",
-      "createdAt": 1617178369699,
-      "updatedAt": 1617178369699,
+      "code": "CB66BLLI",
+      "phone": "0988811111",
+      "name": "Đẹp Trai Vcl",
+      "status": "ok",
+      "currentKpi": "300,000,000 VND",
+      "action": "Đang hoạt động",
+      "progressKpi": "75%",
+      "createdAt": 1617241512519,
+      "updatedAt": 1617241512519,
       "id": 21
     },
     {
-      "name": "d",
+      "name": "qq",
       "phone": "0333333333",
-      "password": "d",
-      "createdAt": 1617178488565,
-      "updatedAt": 1617178488565,
+      "password": "qq",
+      "createdAt": 1617271166407,
+      "currentKpi": "300,000,000 VND",
+      "action": "Đang hoạt động",
+      "progressKpi": "75%",
+      "updatedAt": 1617271166407,
+      "status": "ok",
       "id": 22
+    }
+  ],
+  "kpi": [
+    {
+      "kpiPerMoney": "200,000,000 VND",
+      "percentPerMoney": "80%",
+      "kpiPerItem": "80",
+      "percentPerItem": "54,57%",
+      "telesaleId": "1"
+    },
+    {
+      "kpiPerMoney": "200,000,000 VND",
+      "percentPerMoney": "80%",
+      "kpiPerItem": "80",
+      "percentPerItem": "54,57%",
+      "telesaleId": "3"
+    },
+    {
+      "kpiPerMoney": "200,000,000 VND",
+      "percentPerMoney": "80%",
+      "kpiPerItem": "80",
+      "percentPerItem": "54,57%",
+      "telesaleId": "4"
     }
   ]
 }
